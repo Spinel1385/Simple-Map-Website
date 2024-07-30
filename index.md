@@ -1,4 +1,4 @@
-## Ithaca Hot Spots
+## Manaus map
 Here's my sample map website!
 
 <iframe src="ManausMap.html" height="500" width="500"></iframe>
