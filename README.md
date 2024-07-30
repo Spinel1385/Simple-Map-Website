@@ -1,4 +1,4 @@
-# Simple-Map-Website_1
+# Simple-Map-Website
 
 This repository contains code and files for publishing a Folium map as a very simple GitHub Pages site.
 
