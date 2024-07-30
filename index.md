@@ -1,5 +1,5 @@
 ## Manaus map
-Here's my sample map website!
+Here's my simple map website!
 
 <iframe src="ManausMap.html" height="500" width="500"></iframe>
 
